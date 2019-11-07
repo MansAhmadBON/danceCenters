@@ -1,6 +1,6 @@
 Dance Centers this is a course project on the basics of JavaScript at the TechMeSkills school.
 
-Site on GITHUB-PAGES: [https://mansahmadbon.github.io/danceCenters/].
+Site on GITHUB-PAGES: [https://mansahmadbon.github.io/danceCenters/].  
 Source code: [https://github.com/MansAhmadBON/danceCentersWithYmap].
 
 Технические требования: 
